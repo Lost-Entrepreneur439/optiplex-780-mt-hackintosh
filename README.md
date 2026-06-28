@@ -15,7 +15,7 @@ Do note if your hardware differs, while unlikely, you may have issues.
 - CPU: Intel Core 2 Duo E7500
 - GPU: ATi Radeon HD 5450 512MB
 - Chipset: Intel Q45
-- Audio: Analogue Devices AD1985A
+- Audio: Analogue Devices AD1984A
 - Ethernet: Intel 82567LM
 - Disk: Seagate Barracuda 160GB 7200RPM 3.5"
 
