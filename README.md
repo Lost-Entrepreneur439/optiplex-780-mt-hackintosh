@@ -4,6 +4,7 @@ macOS Sierra EFI for the Dell OptiPlex 780 MT using OpenCore. I will try to keep
 
 # WARNING! SMBIOS DETAILS ARE NOT INCLUDED IN THE CONFIG.PLIST.
 You will have to use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate an **iMac10,1** SMBIOS for your system, and add them to the config.plist.
+
 Make sure you're on BIOS A15 before continuing. You can get it from Dell's website. Older versions may cause issues. I do not, and will never support Libreboot.
 
 ## Other macOS versions?
